@@ -20,13 +20,13 @@ This is the PCB
 
 Bill of Materials (Also provided as a file in .csv format)
 
-Item,Order Qty,Actual Usage
-Seeed XIAO RP2040,1,1
-MX Mechanical Switches,1 Pack (36),6
-DSA Keycaps (1u),1 Pack (24),6
-1N4148 Diodes,1 Pack (150),6
-EC11 Rotary Encoder,1 Pack (6),1
-"0.91"" OLED Display",1 Pack (5),1
+Item,Order Qty,Actual Usage:
+- Seeed XIAO RP2040,1,1
+- MX Mechanical Switches,1 Pack (36),6
+- DSA Keycaps (1u),1 Pack (24),6
+- 1N4148 Diodes,1 Pack (150),6
+- EC11 Rotary Encoder,1 Pack (6),1
+- "0.91"" OLED Display",1 Pack (5),1
 
 ----------------
 The hackpad, or at least my customized version of it, contains 6 keys, a rotary encoder (knob), and a small OLED display. I plan to utilize this macropad for tasks including gaming, productivity shortcuts, and for general assist in tasks including school work, 3D modelling, and so on.
