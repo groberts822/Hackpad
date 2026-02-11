@@ -11,6 +11,7 @@ This is the Schematic
 <img width="813" height="387" alt="SCH" src="https://github.com/user-attachments/assets/c27b79bf-3afc-4d02-b230-ff715853deb1" />
 
 This is the PCB
+Note: SMD instead of DIP does not matter to me. If it ends up being to hard to solder, the kits (or I also have either way) come with the header pins to do it DIP instead of straight SMD, but I tend to prefer SMD even with the slight challenge.
 
 <img width="881" height="598" alt="PCB" src="https://github.com/user-attachments/assets/8becdaf8-2e5a-4248-bd6a-9c4ce29c6abf" />
 
