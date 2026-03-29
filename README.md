@@ -19,6 +19,10 @@ Note: SMD instead of DIP does not matter to me. If it ends up being to hard to s
 
 <img width="740" height="462" alt="PCB_3D" src="https://github.com/user-attachments/assets/0cfc10a0-fa29-48c5-b987-fa8d385b8cec" />
 
+Final/Physical Build!!
+
+<img width="1187" height="767" alt="image" src="https://github.com/user-attachments/assets/78f0f88a-8870-4829-8b2b-14e63176f585" />
+
 Bill of Materials (Also provided as a file in .csv format)
 
 Item,Order Qty,Actual Usage:
