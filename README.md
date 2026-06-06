@@ -23,6 +23,10 @@ Final/Physical Build!!
 
 <img width="1187" height="767" alt="image" src="https://github.com/user-attachments/assets/78f0f88a-8870-4829-8b2b-14e63176f585" />
 
+Final Build Demo
+
+https://www.youtube.com/watch?v=0jgFtQDJzT8 
+
 Bill of Materials (Also provided as a file in .csv format)
 
 Item,Order Qty,Actual Usage:
